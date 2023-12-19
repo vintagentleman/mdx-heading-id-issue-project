@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "mdx": {
+    "plugins": ["remark-custom-heading-id"]
+  }
+}

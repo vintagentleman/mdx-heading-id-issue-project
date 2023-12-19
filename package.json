@@ -1,0 +1,7 @@
+{
+  "name": "mdx-heading-id-issue-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "remark-custom-heading-id": "^1.0.1"
+  }
+}
